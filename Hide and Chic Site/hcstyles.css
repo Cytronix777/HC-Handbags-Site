@@ -1,0 +1,114 @@
+body {
+	padding-top: 70px;
+}
+
+#title {
+	color: #2551B8;
+	font-family: 'Lobster Two', cursive;
+	font-size: 22px;
+}
+
+#stitch {
+	background-image: url(images/palebag.jpg);
+	background-position: center;
+	background-repeat: no-repeat;
+	background-size: cover;
+	margin: -20px auto;
+	height: 860px;
+}
+
+#box1 {
+	background-color:rgba(255,255,255,0.2);
+	color: white;
+	text-shadow: 2px 2px #2551B8; 
+	position: relative;
+	top: 50%;
+	transform: translateY(-50%);
+	text-align: center;
+	font-family: 'Comfortaa', cursive;
+	-webkit-text-stroke: 1px #000; 
+}
+
+#titleText {
+	font-size: 32px;
+}
+
+#arrow {
+	color: white;
+	text-align: center;
+	margin-top: 510px;
+	position: relative;
+}
+
+.marketing {
+	margin-top: 80px;
+	margin-bottom: 55px;
+	text-align: center;
+	color: #2551B8;
+}
+
+.btn-default {
+	margin-bottom: 20px;
+}
+
+.wooden {
+	background-image: url(images/whitewood.jpg);
+	height: auto;
+}
+
+#featurette1 {
+	position: relative;
+	font-weight: bold;
+	text-shadow: 2px 2px white;
+}
+
+.featurette-heading {
+	color: rgba(2,170,200,1);
+	text-shadow: 1px 1px white;
+}
+
+.text-muted {
+	color: rgba(2,170,200,1);
+	text-shadow: 1px 1px white;
+}
+
+.wooden h2 {
+	margin-top: 100px;
+}
+
+.lead {
+	font-family: 'Libre Baskerville', serif;
+	font-style: italic;
+	font-weight: 600;
+	color: rgb(0,0,100);
+	font-size: 185%;
+}
+
+#mumbagpic {
+	margin: 40px 0;
+}
+
+.bottom {
+	margin: 45px auto;
+}
+
+.wooden2 {
+	background-image: url(images/whitewood.jpg);
+	height: auto;
+	text-align: center;
+	font-size: 200%;
+}
+
+.btn-info {
+	margin-top: 20px;
+	margin-bottom: 20px;
+}
+
+h3 {
+	color: #2551B8;
+	font-weight: bold;
+}
+
+#krysEmail {
+	float: right;
+}
